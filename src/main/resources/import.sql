@@ -1,0 +1,15 @@
+INSERT INTO regiones (nombre) VALUES('Sudamérica');
+INSERT INTO regiones (nombre) VALUES('Centroamérica');
+INSERT INTO regiones (nombre) VALUES('Norteamérica');
+INSERT INTO regiones (nombre) VALUES('Europa');
+INSERT INTO regiones (nombre) VALUES('Asia');
+INSERT INTO regiones (nombre) VALUES('Africa');
+INSERT INTO regiones (nombre) VALUES('Oceania');
+INSERT INTO regiones (nombre) VALUES('Antártida');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(1,'Maria','Perez','mp@hotmail.com',65433223,'2021-10-01');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(2,'Jose','Lopez','jl@hotmail.com',65438223,'2021-01-01');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(3,'Maria','Orillana','mm@hotmail.com',65533223,'2021-02-01');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(4,'Dina','Ramirez','Dr@hotmail.com',65433223,'2021-09-09');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(5,'Michael','Byrle', 'bpostgateg@time.com',177982153,'2021-02-01');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(6,'Lorem','Fayre','fbulmerh@patch.com',496448615,'2021-02-01');
+INSERT INTO clientes (region_id,nombre,apellido,email,telefono,created_at) VALUES(7,'Drew','Rory','rstenbridgei@cnet.com',274068204,'2021-02-01');
